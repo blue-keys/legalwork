@@ -8,6 +8,7 @@ Version 1.0.1
 Cette version permet de générer des mentions légales classique, sans correction de texte, inspiré de la plupart des générateurs classique. Dans d'autres versions, il y aura un gros travail sur le fond avec plusieurs ajouts, notament plusieurs langues disponible.
 
 
+
 Donation crypto BAT
 ==============================
 
